@@ -19,6 +19,11 @@ Currently learning and building projects using Python, SQL, Power BI, and Java.
 🚀 Open to internship opportunities  
 ⚡ Immediate Joiner  
 
+## 📊 GitHub Stats
+
+![Neelam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neelam0108&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelam0108&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠️ Technical Skills
