@@ -1,16 +1,115 @@
-## Hi there 👋
+# 💫 Neelam Choudhary
 
-<!--
-**Neelam0108/Neelam0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst | Java & Python Learner | Tech Enthusiast  
+📍 Bhopal, Madhya Pradesh, India  
+📧 neelamchoudharync999@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/neelam-choudhary)  
+💻 [GitHub](https://github.com/Neelam0108)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+🎓 Pursuing M.Tech in Data Science from RGPV  
+🎓 B.Tech in Electronics & Communication Engineering from UIT RGPV  
+
+I am passionate about Data Analytics, Visualization, and Problem Solving.  
+Currently learning and building projects using Python, SQL, Power BI, and Java.
+
+🚀 Open to internship opportunities  
+⚡ Immediate Joiner  
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python Basics
+- SQL
+- NumPy
+- Java Basics
+- Java OOPs
+- Java Exception Handling
+- Basic Data Structures
+
+### Data Analytics & Visualization
+- Power BI
+- MS Excel
+- Jupyter Notebook
+- Dashboard Design
+- Data Analysis
+
+### Electronics & Hardware
+- Digital Electronics
+- Basic VLSI Design
+- ADC/DAC Circuits
+
+### Tools & Platforms
+- GitHub
+- Jupyter Notebook
+- MS Excel
+
+---
+
+## 📌 Projects
+
+### 📊 Netflix Data Analytics Dashboard
+🔗 [View Project](https://github.com/Neelam0108/netflix-dashboard)
+
+- Performed exploratory data analysis using Python and NumPy
+- Built interactive dashboards using Power BI
+- Analyzed Netflix content trends and genre popularity
+- Converted raw data into meaningful business insights
+
+### ⚡ ADC Converter Design Using VLSI
+
+- Designed and simulated an Analog-to-Digital Converter circuit
+- Applied VLSI and Digital Electronics concepts
+- Gained hands-on experience in signal conversion and circuit simulation
+
+---
+
+## 📜 Certification
+
+**Diploma in Computer Applications**
+
+- MS Office
+- Computer Fundamentals
+- Internet Tools
+- Basic Programming Concepts
+
+---
+
+## 💡 Strengths
+
+- Strong communication skills
+- Leadership qualities
+- Quick learner
+- Adaptable to new technologies
+- Logical thinking
+- Problem-solving mindset
+
+---
+
+## 🌐 Languages
+
+- Hindi: Native Proficiency
+- English: Professional Working Proficiency
+
+---
+
+## 📈 GitHub Activity
+
+I have recently started my GitHub journey and I am actively working on improving my projects and technical skills.
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: neelamchoudharync999@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/neelam-choudhary](https://linkedin.com/in/neelam-choudhary)  
+💻 GitHub: [github.com/Neelam0108](https://github.com/Neelam0108)
+
+---
+
+✨ Turning data into decisions and ideas into reality.
