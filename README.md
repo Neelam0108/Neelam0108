@@ -28,6 +28,15 @@ Currently learning and building projects using Python, SQL, Power BI, and Java.
 
 ## 🛠️ Technical Skills
 
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 ### Programming Languages
 - Python Basics
 - SQL
